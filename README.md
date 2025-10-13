@@ -1,3 +1,2 @@
 # docker-test
-test
-wildcard
+testing
